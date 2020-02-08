@@ -28,5 +28,6 @@ There are currently two options (variables) that can be changed from within the 
 These can be changed as required, however the source files are automatically removable if required on script run.
 
 ____
+[Released under GNU GPL v3](LICENSE)
 - Author: Dan Streeter
 - Last Updated: 2020-02-08 14:25
